@@ -1,0 +1,36 @@
+.conatiner1 {
+    width: 100px;
+    height: 200px;
+    margin: 100px;
+}
+
+.container2 {
+    text-align: center;
+}
+
+.container4 {
+    text-align: center;
+    width: min-content;
+    height: 10px;
+}
+
+.container5 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.menu-de-inicio {
+    background-color: #F0A83E;
+    height: 40;
+}
+
+h3 {
+    background-color: #F0A83E;
+}
+
+.img-icon-klk {
+    background-color: #3C2313;
+}
